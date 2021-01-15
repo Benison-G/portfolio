@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benisonlg60/portfolio.git"
+  },
+  "author": "benison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benisonlg60/portfolio/issues"
+  },
+  "homepage": "https://github.com/benisonlg60/portfolio#readme"
+}
