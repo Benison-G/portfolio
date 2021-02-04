@@ -1,9 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import UseEffectDemo from './use_effect/UseEffectDemo';
 
 class App extends React.Component {
     render() {
-        return (<h1>Hello World!!!</h1>);
+        return (
+            <React.Fragment>
+                <h1>Hello World!!!</h1>
+                <UseEffectDemo />
+            </React.Fragment>
+        )
     }
 }
 
